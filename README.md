@@ -1,5 +1,5 @@
 # Data-Science-Python-Libraries-Tools
-As Python has gained a lot of traction in the recent years in Data Science industry, here are some of its most useful libraries for data scientists and engineers.
+:notebook_with_decorative_cover: :hammer: As Python has gained a lot of traction in the recent years in Data Science industry, here are some of its most useful libraries for data scientists and engineers.
 ### 1. Numpy
 The most fundamental package, around which the scientific computation stack is built, is NumPy (stands for Numerical Python). It provides an abundance of useful features for operations on n-arrays and matrices in Python. The library provides vectorization of mathematical operations on the NumPy array type, which ameliorates performance and accordingly speeds up the execution.<br><br>
 
